@@ -39,7 +39,7 @@ Key Contributions:
 
 ### Web Development Intern
 City of San Diego
-September,2024 - present
+September, 2024 - present
 <br/>
 Key Contributions:
 - Updated and maintained the City's website using PHP, html, CSS, and javascript
@@ -48,10 +48,11 @@ Key Contributions:
 ## Background
 A little bit about my background, I have been living in San Diego almost my entire life. Specifically my hometown is [Imperial Beach, California](https://g.co/kgs/Fm2hRgA). Living next to the beach growing up has given me a strong appreciation of nature and the environment.  
 One of the quotes I live by is:
-> "Just living is not enough... one must have sunshine, freedom, and a little flower."
+> "Just living is not enough... one must have sunshine, freedom, and a little flower." 
+
 Life is not all about the work you do but also what you do outside of it. Looking to the outdoors for time away from screens and responsibilities allows me to reflect on my own motivations.
 <!-- insert images of recent travels-->
-![image of joshua tree national park at night](https://github.com/JudeRgamba/profile/blob/lab-part-2/IMG_2936.JPG)
+![image of joshua tree national park at night](IMG_3332.JPG)
 
 ## Personal Interests
 Aside from going outdoors, one of my favorite hobbies is building keyboards! So far I have been able to build 6 keyboards and hopefully I am able to create more interesting and different sounding keyboards in the future. Keyboard building is a lot easier than people think. It involves these steps:
@@ -61,7 +62,7 @@ Aside from going outdoors, one of my favorite hobbies is building keyboards! So 
 4. Lube your switches(optional because it takes way too long)
 5. Put it all together(switches->keycaps0)
 <!-- insert images here for keyboard builds-->
-![image of keyboards](https://github.com/JudeRgamba/profile/blob/lab-part-2/IMG_3332.JPG)
+![image of keyboards](IMG_2936.JPG)
 
 
 
